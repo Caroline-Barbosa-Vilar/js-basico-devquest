@@ -1,4 +1,4 @@
-let boletoPago = false
+const boletoPago = false
 
 if (boletoPago === false){
   console.log('O boleto não está pago')
